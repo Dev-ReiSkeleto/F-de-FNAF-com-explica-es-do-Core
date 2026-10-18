@@ -2,3 +2,5 @@
 Este arquivo contem toda a história da franquia Five nights at freddy's, feito de um fã para outro, utilizei todos os videos do Core para criar esse notebook LM
 
 https://notebook.google.com/notebook/1972d09c-0053-4d46-b2e0-c459477a7668
+
+O notebookLM esta programado para responder como um fã de fnaf para um outro fã, ele irá trazer uma curiosidade e tentara trazer fatos dependendo do que você perguntar para ele bem interessantes
